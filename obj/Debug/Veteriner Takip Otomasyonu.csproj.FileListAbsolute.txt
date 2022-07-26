@@ -1,0 +1,51 @@
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\bin\Debug\Veteriner Takip Otomasyonu.exe.config
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\bin\Debug\Veteriner Takip Otomasyonu.exe
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\bin\Debug\Veteriner Takip Otomasyonu.pdb
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Form1.resources
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Kayıtekle.resources
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.exe
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.pdb
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Mail.resources
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.AşıMail.resources
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Hakkında.resources
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.MuayneRaporu.resources
+C:\Users\burak\Desktop\c# örneklerim\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Aşırapor.resources
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\bin\Debug\Veteriner Takip Otomasyonu.exe.config
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.exe
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.pdb
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\bin\Debug\veteriner.mdf
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\bin\Debug\veteriner_log.ldf
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\bin\Debug\Veteriner Takip Otomasyonu.exe
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\bin\Debug\Veteriner Takip Otomasyonu.pdb
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.AşıMail.resources
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Aşırapor.resources
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Form1.resources
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Kayıtekle.resources
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Hakkında.resources
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Mail.resources
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.MuayneRaporu.resources
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\burak\Desktop\Burak_Güvenç_15541027\Proje Kodları\Veteriner Takip Otomasyonu\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\bin\Debug\veteriner.mdf
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\bin\Debug\veteriner_log.ldf
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\bin\Debug\Veteriner Takip Otomasyonu.exe.config
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\bin\Debug\Veteriner Takip Otomasyonu.exe
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\bin\Debug\Veteriner Takip Otomasyonu.pdb
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.AşıMail.resources
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Aşırapor.resources
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Form1.resources
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Kayıtekle.resources
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Hakkında.resources
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Mail.resources
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.MuayneRaporu.resources
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.exe
+C:\Users\habip\OneDrive\Masaüstü\Veteriner-Otomasyonu-master\Veteriner-Otomasyonu-master\Veteriner Takip Otomasyonu\obj\Debug\Veteriner Takip Otomasyonu.pdb
